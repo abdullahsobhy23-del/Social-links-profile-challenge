@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:(https://github.com/abdullahsobhy23-del/Social-links-profile-challenge/blob/main/README.md)
 - Live Site URL:(https://abdullahsobhy23-del.github.io/Social-links-profile-challenge/)
 
 ### Built with
