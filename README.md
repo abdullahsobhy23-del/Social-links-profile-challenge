@@ -50,6 +50,6 @@ Users should be able to:
 
 I,m not use any AI Tool in this project, but I used the knowledge which i have .
 
-## Author
+
 
 - Frontend Mentor - [@abdullahsobhy23-del](https://www.frontendmentor.io/profile/abdullahsobhy23-del)
